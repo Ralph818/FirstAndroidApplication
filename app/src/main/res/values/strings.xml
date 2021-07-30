@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">First Application</string>
+    <string name="name">Haz Click para registrarse</string>
+    <string name="mail">Escribe tu correo electrónico</string>
+    <string name="numero">Número de celular</string>
+    <string name="textoSMS">Escribe el mensaje</string>
+</resources>
